@@ -74,6 +74,9 @@ html * {
   .smaller50 {
     font-size: $mainFontSize * 0.5;
   }
+  .smaller40 {
+    font-size: $mainFontSize * 0.4;
+  }
 }
 
 // For custom effect of fragments
@@ -109,6 +112,20 @@ background-size: 100% 100%;
   margin: auto; /* Optioneel: centreer de container */
 }
 
+.grid-container3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px; /* Ruimte tussen de knoppen */
+  margin: auto; /* Optioneel: centreer de container */
+}
+
+.grid-container4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px; /* Ruimte tussen de knoppen */
+  margin: auto; /* Optioneel: centreer de container */
+}
+
 .button1 {
   background-color: $blue;
   border: none;
@@ -122,9 +139,11 @@ background-size: 100% 100%;
   margin: 4px 2px;
   cursor: pointer;
   transition: background-color;
-  .pressed { background-color: $green; }
 }
 
+.button1.pressed {
+  background-color: $green; 
+}
 
 .button2 {
   background-color: $blue;
@@ -143,4 +162,81 @@ background-size: 100% 100%;
 
 .button2.pressed {
   background-color: $red; 
+}
+
+.button3 {
+  background-color: none;
+  border: none;
+  border-radius: 10px;
+  color: $black;
+  padding: 1px 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: background-color;
+}
+
+.button3.pressed {
+  background-color: $green; 
+}
+
+.button4 {
+  background-color: none;
+  border: none;
+  border-radius: 10px;
+  color: $black;
+  padding: 1px 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: background-color;
+}
+
+.button4.pressed {
+  background-color: $red; 
+}
+
+// mouse-over pop-up for extra information
+.popup {
+  position: relative;
+  display: inline-block;
+}
+
+.popup .popuptext {
+  visibility: hidden;
+  width: 400px;
+  background-color: $lightblue;
+  color: $black;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%; /* Position the popup */
+  left: 50%;
+  margin-left: -200px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: $lightblue transparent transparent transparent;
+}
+
+.popup:hover .popuptext {
+  visibility: visible;
+  opacity: 1;
 }

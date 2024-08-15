@@ -83,7 +83,8 @@ revealjs_css_files = [
     "https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chalkboard/style.css"
 ]
 revealjs_js_files = [
-    "https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.min.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.min.js",
+    "custom.js"
 ]
 
 revealjs_notes_from_comments = True

@@ -8,6 +8,27 @@ Les 1: Kennismaken met robots
    :data-background-image: _static/media/mirte-lite/mirte-lite-les1/MIRTE-ingekleurd-op-lijn.png
 
 
+**Doel & Uitleg**
+--------------------
+.. container:: smaller80
+
+   Door middel van quizvragen, filmpjes en opdrachten leer je waarom een robot een robot is, leer je uit welke onderdelen een robot bestaat en wat voor soorten robots er zijn. 
+
+
+.. container:: half smaller50
+   
+   Ga met je muis over het vraagteken heen.
+
+.. container:: half smaller40
+
+   .. raw:: html
+
+      <div class="popup">
+       <img src="_static/media/mirte-lite/mirte-lite-les1/information-icon_1.png" style="width:auto; height:100px;">
+       <span class="popuptext">Op sommige pagina's kom je dit vraagteken tegen. Wanneer je hier met je muis overheen gaat, krijg je extra informatie over de vraag of opdracht die je aan het maken bent. Dit werkt ook bij een aantal afbeeldingen in deze les. Ben je een ouder, begeleider of docent? Dan kun je de informatie bij de afbeeldingen en vraagtekens gebruiken voor achtergrond informatie of voor het voorbereiden van jouw les.</span>
+      </div>
+
+
 **Wat is een robot?**
 --------------------
 
@@ -15,6 +36,12 @@ Les 1: Kennismaken met robots
 
    Een robot is een programmeerbare machine die zelfstandig een serie van taken kan uitvoeren en kan reageren op zijn omgeving.
 
+.. raw:: html
+
+   <div class="popup">
+   <img src="_static/media/mirte-lite/mirte-lite-les1/information-icon_1.png" style="width:auto; height:40px;">
+   <span class="popuptext smaller40">Wetenschappers zijn het er soms niet over eens met elkaar, maar eenvoudig gezegd is een robot een programmeerbare machine die zelfstandig taken uitvoert. Maar volgens deze definitie zouden een pinautomaat en een koffiezetapparaat ook robots zijn. Wat deze apparaten niet kunnen, is reageren op hun omgeving. Robots kunnen dat wel. Ze zijn vaak uitgerust met sensoren zoals camera’s, thermometers en lichtmeters om zo nodig hun taken aan te passen op basis van wat de sensoren gemeten hebben.</span>
+   </div>
 
 .. raw:: html
 
@@ -38,7 +65,10 @@ Les 1: Kennismaken met robots
 
     <div class="row">
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/spot-climbs-stairs.jpg" style="width:auto; height:200px;">
+    <div class="popup">
+       <img src="_static/media/mirte-lite/mirte-lite-les1/spot-climbs-stairs.jpg" style="width:auto; height:200px;">
+       <span class= "smaller40 popuptext">Dit is Spot, een robot die de omgeving kan scannen en in kaart kan brengen.</span>
+      </div>
     <div style="clear: both;"></div>
     
     <div class="smaller50">Spot - Boston Dynamics</div>
@@ -46,7 +76,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/lely-grass-robot.jpg" style="width:auto; height:200px;">
+    <div class="popup">
+       <img src="_static/media/mirte-lite/mirte-lite-les1/lely-grass-robot.jpg" style="width:auto; height:200px;">
+       <span class= "smaller40 popuptext">De Lely Exos is een robot die gras kan maaien en dit gras dan gelijk aan de koeien in de stal kan voeren. Met behulp van sensoren zorgt de robot ervoor dat hij tijdens het grasmaaien niet in de sloot valt en het gras op een perfecte afstand van het hek bij de koeien aflevert.</span>
+      </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">Exos (gras maai- en voerrobot) - Lely</div>
@@ -54,7 +87,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/Dyson-360-Vis-Nav-1-770x437.jpg" style="width:auto; height:200px;">
+    <div class="popup">
+       <img src="_static/media/mirte-lite/mirte-lite-les1/Dyson-360-Vis-Nav-1-770x437.jpg" style="width:auto; height:200px;">
+       <span class= "smaller40 popuptext">Een robotstofzuiger gebruikt een sensor om een plattegrond van het huis te maken en zorgt er vervolgens voor dat elk hoekje in de kamer schoongemaakt wordt.</span>
+      </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">Robotstofzuiger - Dyson</div>
@@ -70,27 +106,31 @@ Les 1: Kennismaken met robots
 
 .. container:: smaller80
    
-   Sleep de afbeeldingen naar de juiste antwoorden.
+   Op welke afbeeldingen is een robot te zien? Er zijn twee antwoorden goed.
 
+.. raw:: html
 
-.. container:: half
-      
-   .. image:: _static/media/mirte-lite/mirte-lite-les1/airfryer.jpg
-      :width: 200px
+   <div class="grid-container">
+        <button class="button4"><img src="_static/media/mirte-lite/mirte-lite-les1/wasmachine.jpg"; style="width:auto; height:150px"></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/industrial-robotic-arm.jpg"; style="width:auto; height:150px"></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/pepper-zorgrobot.jpg"; style="width:auto; height:150px"></button>
+        <button class="button4"><img src="_static/media/mirte-lite/mirte-lite-les1/airfryer.jpg"; style="width:auto; height:150px"></button>
+   </div>
 
-   .. image:: _static/media/mirte-lite/mirte-lite-les1/wasmachine.jpg
-      :width: 200px
+.. raw:: html
 
-.. container:: half
+   <div class="popup">
+   <img src="_static/media/mirte-lite/mirte-lite-les1/information-icon_1.png" style="width:auto; height:40px;">
+   <span class="popuptext smaller40">Vraag je af: 1. Is het programmeerbaar, waardoor het zelfstandig taken uit kan voeren? 2. Kan het reageren op zijn omgeving? Als je deze twee vragen kunt beantwoorden met 'ja', dan is het een robot!</span>
+   </div>
 
-   .. image:: _static/media/mirte-lite/mirte-lite-les1/pepper-zorgrobot.jpg
-      :width: 200px
-
-   .. image:: _static/media/mirte-lite/mirte-lite-les1/industrial-robotic-arm.jpg
-      :width: 200px
     
 **Waar bestaat een robot uit?**
 --------------------
+
+.. container:: smaller80
+   
+   De robot die we tijdens de volgende workshops gaan gebruiken bestaat uit 6 elementen.
 
 .. raw:: html
 
@@ -114,7 +154,10 @@ Les 1: Kennismaken met robots
 
     <div class="row">
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/frame.png" style="width:auto; height:150px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/frame.png" style="width:auto; height:150px;">
+        <span class="popuptext smaller40">Het frame zorgt ervoor dat alle onderdelen bij elkaar gehouden worden en dat de robot tegen een stootje kan.</span>
+        </div>
     <div style="clear: both;"></div>
     
     <div class="smaller50">frame</div>
@@ -122,7 +165,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/battery-pack.png" style="width:auto; height:150px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/battery-pack.png" style="width:auto; height:150px;">
+        <span class="popuptext smaller40">De krachtbron zorgt ervoor dat de robot energie krijgt om te bewegen. MIRTE lite gebruikt batterijen als krachtbron.</span>
+        </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">krachtbron</div>
@@ -130,7 +176,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/LDR-sensor.png" style="width:auto; height:150px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/obstacle-sensor.png" style="width:auto; height:150px;">
+        <span class="popuptext smaller40">Met behulp van sensoren kan de robot zijn omgeving waarnemen. Bijvoorbeeld door obstakels te herkennen met de obstakelsensor.</span>
+        </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">sensoren</div>
@@ -157,7 +206,10 @@ Les 1: Kennismaken met robots
 
     <div class="row">
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/motor-driver.png" style="width:auto; height:150px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/motor-driver.png" style="width:auto; height:150px;">
+        <span class="popuptext smaller40">De motor driver controleert de energie van de krachtbron. Op basis van de informatie van de sensoren zorgt de motor driver ervoor dat de motoren de juiste hoeveelheid energie krijgen om de motoren op de juiste manier te laten draaien (vooruit, achteruit, sneller, langzamer). </span>
+        </div>
     <div style="clear: both;"></div>
     
     <div class="smaller50">motor driver</div>
@@ -165,7 +217,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/motor.png" style="width:auto; height:150px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/motor.png" style="width:auto; height:150px;">
+        <span class="popuptext smaller40">De motoren kunnen een ander onderdeel in beweging brengen. Ze kunnen bijvoorbeeld de wielen laten draaien.</span>
+        </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">motoren</div>
@@ -173,7 +228,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/wheels.png" style="width:auto; height:150px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/wheels.png" style="width:auto; height:150px;">
+        <span class="popuptext smaller40">Actuatoren zorgen ervoor dat de robot zich kan bewegen. Dit zijn bijvoorbeeld de wielen van een robot.</span>
+        </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">actuatoren</div>
@@ -196,9 +254,8 @@ Les 1: Kennismaken met robots
         
         #. Gooi de dobbelsteen
         #. Het getal wat je gooit hoort bij een specifiek onderdeel van de robot - Gooi je 6? Dan mag je het onderdeel zelf ontwerpen
-        #. Markeer het onderdeel wat je gedobbeld hebt
+        #. Teken dit onderdeel op het tekenvel
         #. Herhaal dit voor elke categorie van de robot
-        #. Teken nu een robot met alle onderdelen die je gemarkeerd hebt
         #. Vergeet de robot niet in te kleuren!
 
    .. container:: half smaller50
@@ -238,7 +295,10 @@ Les 1: Kennismaken met robots
 
     <div class="row">
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/Industriele-robot.jpg" style="width:auto; height:170px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/Industriele-robot.jpg" style="width:auto; height:170px;">
+        <span class="popuptext smaller40">Deze robot kan bijvoorbeeld spullen oppakken en verplaatsen naar een andere loopband in de fabriek.</span>
+        </div>
     <div style="clear: both;"></div>
     
     <div class="smaller50">industriëel</div>
@@ -246,7 +306,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/Medische-robot.jpeg" style="width:auto; height:170px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/Medische-robot.jpeg" style="width:auto; height:170px;">
+        <span class="popuptext smaller40">Medische robots kunnen bijvoorbeeld helpen bij een operatie.</span>
+        </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">zorg/medisch</div>
@@ -254,7 +317,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/Huishoud-robot.jpg" style="width:auto; height:170px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/Huishoud-robot.jpg" style="width:auto; height:170px;">
+        <span class="popuptext smaller40">Deze robots bieden ondersteuning in en rondom het huis, zoals door het gras te maaien.</span>
+        </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">huishoud/service</div>
@@ -281,7 +347,10 @@ Les 1: Kennismaken met robots
 
     <div class="row">
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/Onderwijs-robot.jpg" style="width:auto; height:170px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/Onderwijs-robot.jpg" style="width:auto; height:170px;">
+        <span class="popuptext smaller40">Deze robots zijn bedoeld om jou meer te leren over robotica, net zoals de MIRTE robot.</span>
+        </div>
     <div style="clear: both;"></div>
     
     <div class="smaller50">onderwijs</div>
@@ -289,7 +358,10 @@ Les 1: Kennismaken met robots
     </div>
 
     <div class="column">
-    <img src="_static/media/mirte-lite/mirte-lite-les1/Agrarische-robot.png" style="width:auto; height:170px;">
+    <div class="popup">
+        <img src="_static/media/mirte-lite/mirte-lite-les1/Agrarische-robot.png" style="width:auto; height:170px;">
+        <span class="popuptext smaller40">Deze robots helpen mee op het land, door bijvoorbeeld de gewassen water te geven.</span>
+        </div>
     <div style="clear: both;"></div>
 
     <div class="smaller50">agrarisch</div>
@@ -346,20 +418,31 @@ Les 1: Kennismaken met robots
         <button class="button1">D. het kan reageren op zijn omgeving</button>
       </div>
 
-      <script>
-        document.querySelectorAll('.button').forEach(button => {
-            button.addEventListener('click', function() {
-            console.log("adfg")
-                this.classList.toggle('.pressed');
-            });
-        });
-      </script>
-
-
 **Welke onderdelen heeft de DelFly Nimble?**
 --------------------
 
-Sleep alle goede antwoorden (5) naar de DelFly.
+.. container:: smaller80
+   
+   Er zijn vijf antwoorden goed.
+
+.. raw:: html
+
+   <div class="grid-container4">
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/battery-pack.png"; style="width:auto; height:100px">
+        <div>krachtbron</div></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/motor.png"; style="width:auto; height:100px">
+        <div>motor</div></button>
+        <button class="button4"><img src="_static/media/mirte-lite/mirte-lite-les1/digital-display.png"; style="width:auto; height:100px">
+        <div>scherm</div></button>
+        <button class="button4"><img src="_static/media/mirte-lite/mirte-lite-les1/controller.png"; style="width:auto; height:100px">
+        <div>controller</div></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/nimble-frame.png"; style="width:auto; height:100px">
+        <div>frame</div></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/obstacle-sensor.png"; style="width:auto; height:100px">
+        <div>sensor</div></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/motor-driver.png"; style="width:auto; height:100px">
+        <div>motor driver</div></button>
+   </div>
 
 **Zwermrobots - TU Delft**
 --------------------
@@ -408,12 +491,36 @@ Sleep alle goede antwoorden (5) naar de DelFly.
 **Op welke beestjes lijken de zwermrobots?**
 --------------------
 
-Sleep de goede antwoorden (3) naar de zwermrobot.
+.. container:: smaller80
+  
+   Er zijn 3 antwoorden goed.
+
+.. raw:: html
+
+   <div class="grid-container3">
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/mieren.jpeg"; style="width:auto; height:100px">
+        <div>mieren</div></button>
+        <button class="button4"><img src="_static/media/mirte-lite/mirte-lite-les1/groene_kikker.jpg"; style="width:auto; height:100px">
+        <div>kikkers</div></button>
+        <button class="button4"><img src="_static/media/mirte-lite/mirte-lite-les1/spin.jpg"; style="width:auto; height:100px">
+        <div>spinnen</div></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/fruitvliegjes.jpg"; style="width:auto; height:100px">
+        <div>fruitvliegjes</div></button>
+        <button class="button3"><img src="_static/media/mirte-lite/mirte-lite-les1/zwermvogels.jpg"; style="width:auto; height:100px">
+        <div>zwermvogels</div></button>
+   </div>
 
 **Wat denk jij?**
 --------------------
 
-Geef jouw mening op de stellingen in de volgende slides.
+.. revealjs-section::
+   :data-background-image: _static/media/mirte-lite/mirte-lite-les1/swirl.png
+
+.. container:: smaller80
+  
+   Geef jouw mening op de stellingen in de volgende slides.
+
+
 
 **Lijken robots meer op mensen of op dieren?**
 --------------------
@@ -426,7 +533,13 @@ Geef jouw mening op de stellingen in de volgende slides.
 
 **Volgende stap**
 --------------------
-Goed gedaan! Je hebt de eerste les afgerond. Klik hier om door te gaan naar les 2.
+
+.. revealjs-section::
+   :data-background-image: _static/media/mirte-lite/mirte-lite-les1/MIRTE-end-of-line.png
+
+.. container:: smaller80
+  
+   Goed gedaan! Je hebt de eerste les afgerond. Nu kun je door naar les 2.
 
 
 
