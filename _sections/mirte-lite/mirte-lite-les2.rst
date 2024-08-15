@@ -40,7 +40,7 @@ Les 2: Ontwerpen en bouwen
 
         **Wat heb je nodig?**
 
-        - Kapje voor de robot (download deze `hier <_static/media/mirte-lite/mirte-lite-les2/kapje-MIRTE-lite>`_)
+        - Kapje voor de robot (download deze `hier <_static/media/mirte-lite/mirte-lite-les2/placeholder.pdf>`_)
         - Lijm
         - Knijpers
 
