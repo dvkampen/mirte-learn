@@ -10,7 +10,7 @@ Les 1: Kennismaken met robots
 
 **Doel & Uitleg**
 --------------------
-.. container:: smaller80
+.. container:: smaller70
 
    Door middel van quizvragen, filmpjes en opdrachten leer je waarom een robot een robot is, leer je uit welke onderdelen een robot bestaat en wat voor soorten robots er zijn. 
 
@@ -32,7 +32,7 @@ Les 1: Kennismaken met robots
 **Wat is een robot?**
 --------------------
 
-.. container:: smaller80
+.. container:: smaller70
 
    Een robot is een programmeerbare machine die zelfstandig een serie van taken kan uitvoeren en kan reageren op zijn omgeving.
 
@@ -104,7 +104,7 @@ Les 1: Kennismaken met robots
 **Wel of geen robot?**
 --------------------
 
-.. container:: smaller80
+.. container:: smaller70
    
    Op welke afbeeldingen is een robot te zien? Er zijn twee antwoorden goed.
 
@@ -128,7 +128,7 @@ Les 1: Kennismaken met robots
 **Waar bestaat een robot uit?**
 --------------------
 
-.. container:: smaller80
+.. container:: smaller70
    
    De robot die we tijdens de volgende workshops gaan gebruiken bestaat uit 6 elementen.
 
@@ -374,7 +374,7 @@ Les 1: Kennismaken met robots
 
 **DelFly Nimble - TU Delft**
 --------------------
-.. container:: smaller80
+.. container:: smaller70
    
    Een vliegende robot van de TU Delft
 
@@ -404,7 +404,7 @@ Les 1: Kennismaken met robots
 **Waarom is de DelFly Nimble een robot?**
 --------------------
 
-.. container:: smaller80
+.. container:: smaller70
   
    Er zijn 2 antwoorden goed.
 
@@ -421,7 +421,7 @@ Les 1: Kennismaken met robots
 **Welke onderdelen heeft de DelFly Nimble?**
 --------------------
 
-.. container:: smaller80
+.. container:: smaller70
    
    Er zijn vijf antwoorden goed.
 
@@ -473,7 +473,7 @@ Les 1: Kennismaken met robots
 **Waar kunnen de zwermrobots voor gebruikt worden?**
 --------------------
 
-.. container:: smaller80
+.. container:: smaller70
   
    Er is 1 antwoord goed.
 
@@ -491,7 +491,7 @@ Les 1: Kennismaken met robots
 **Op welke beestjes lijken de zwermrobots?**
 --------------------
 
-.. container:: smaller80
+.. container:: smaller70
   
    Er zijn 3 antwoorden goed.
 
@@ -516,7 +516,7 @@ Les 1: Kennismaken met robots
 .. revealjs-section::
    :data-background-image: _static/media/mirte-lite/mirte-lite-les1/swirl.png
 
-.. container:: smaller80
+.. container:: smaller70
   
    Geef jouw mening op de stellingen in de volgende slides.
 
@@ -537,7 +537,7 @@ Les 1: Kennismaken met robots
 .. revealjs-section::
    :data-background-image: _static/media/mirte-lite/mirte-lite-les1/MIRTE-end-of-line.png
 
-.. container:: smaller80
+.. container:: smaller70
   
    Goed gedaan! Je hebt de eerste les afgerond. Nu kun je door naar les 2.
 

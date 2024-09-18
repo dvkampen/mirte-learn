@@ -77,6 +77,12 @@ html * {
   .smaller40 {
     font-size: $mainFontSize * 0.4;
   }
+  .smaller30 {
+    font-size: $mainFontSize * 0.3;
+  }
+  .smaller20 {
+    font-size: $mainFontSize * 0.2;
+  }
 }
 
 // For custom effect of fragments
@@ -237,6 +243,36 @@ background-size: 100% 100%;
 }
 
 .popup:hover .popuptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+// mouse-over pop-up for copyright
+.popup_copyright {
+  position: relative;
+  display: inline-block;
+}
+
+.popup_copyright .popuptext {
+  visibility: hidden;
+  width: 200px;
+  background-color: $lightblue;
+  color: $black;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 20%; /* Position the popup */
+  left: 100%;
+  margin-left: -200px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+
+.popup_copyright:hover .popuptext {
   visibility: visible;
   opacity: 1;
 }
